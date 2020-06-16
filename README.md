@@ -18,4 +18,5 @@ create table TRAIN_TOTAL(<br>
     constraint train_total_pk primary key(TID,START_TIME,ARRIVE_TIME,FROM_STATION,TO_STATION,SEAT_TYPE)  -- 主键<br>
 );
 
-by 201725010224
+by 201725010224<br>
+2020-06-16
